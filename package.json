@@ -1,0 +1,7 @@
+{
+    "name":"sumitkm",
+    "version":"1.0.0",
+    "bin":{
+        "sumitkm":"index.js"
+    }
+}
