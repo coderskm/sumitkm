@@ -1,7 +1,11 @@
 {
-    "name":"sumitkm",
-    "version":"1.0.0",
-    "bin":{
-        "sumitkm":"index.js"
+    "name": "sumitkm",
+    "version": "1.0.0",
+    "bin": {
+        "sumitkm": "index.js"
+    },
+    "dependencies": {
+        "sumitkm": "^1.0.0"
     }
 }
+ 
